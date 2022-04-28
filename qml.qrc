@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>WaterWave.qml</file>
+        <file>SectorProgressBar.qml</file>
+        <file>NewPopup.qml</file>
+        <file>TestPopup.qml</file>
+        <file>Mask.qml</file>
+        <file>TestPopAndMask.qml</file>
+    </qresource>
+</RCC>
